@@ -1,12 +1,11 @@
 # DarkOakBan v2.0.0
 
-## When to trigger a punishment
 triggers:
-  - place
   - edit
 
 chat: "<target> is cringe"
 kill: false
+smite: true
 command: "/give <target> dirt 1"
 commands:
   - "/give <target> dirt 1"
