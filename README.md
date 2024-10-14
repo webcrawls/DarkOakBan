@@ -1,6 +1,8 @@
 # DarkOakBan
 
-🎮 a silly Minecraft mod to "fix" an obsolete problem _(you can dye signs now.)_
+🎮 a silly Minecraft mod to "fix" an obsolete problem
+
+_(eventually, they let you dye signs)_
 
 nobody should use this. :)
 
