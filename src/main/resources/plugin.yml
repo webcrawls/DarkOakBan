@@ -1,4 +1,7 @@
 name: DarkOakBan
-version: ${project.version}
-main: sh.kaden.darkoakban.Suggestions1
-api-version: 1.13
+main: sh.kaden.darkoakban.DarkOakBanPlugin
+version: 2.0.0
+description: Bans players daring enough to use dark oak signs.
+author: webcrawls <kadenscott>
+website: https://github.com/webcrawls/DarkOakBan
+api-version: '1.21.1'
