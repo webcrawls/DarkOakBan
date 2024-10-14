@@ -18,6 +18,7 @@ repositories {
 
 dependencies {
     compileOnly("io.papermc.paper:paper-api:1.21.1-R0.1-SNAPSHOT")
+    compileOnly("org.spongepowered:configurate-yaml:4.0.0")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 }
 

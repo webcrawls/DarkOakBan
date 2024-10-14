@@ -2,13 +2,12 @@
 
 🎮 a silly Minecraft mod to "fix" an obsolete problem
 
-_(eventually, they let you dye signs)_
-
-nobody should use this. :)
+_(eventually, they added the ability to dye the color of sign text, rendering this "solution" useless.
+nobody needs to use this, probably.)_
 
 ## features
 
-- kick any player who uses a dark oak sign
+- punish any player who uses a dark oak sign
 - ...
 
 ![](./docs/demo.gif)
