@@ -1,4 +1,4 @@
-package dev.kscott.suggestions1;
+package sh.kaden.darkoakban;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Material;

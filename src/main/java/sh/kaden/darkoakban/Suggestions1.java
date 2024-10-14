@@ -1,6 +1,6 @@
-package dev.kscott.suggestions1;
+package sh.kaden.darkoakban;
 
-import dev.kscott.suggestions1.listeners.DarkOakSignListener;
+import sh.kaden.darkoakban.listeners.DarkOakSignListener;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class Suggestions1 extends JavaPlugin {

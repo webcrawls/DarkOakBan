@@ -1,4 +1,4 @@
-package dev.kscott.suggestions1;
+package sh.kaden.darkoakban;
 
 import io.lumine.xikage.mythicmobs.MythicMobs;
 import io.lumine.xikage.mythicmobs.api.exceptions.InvalidMobTypeException;

@@ -1,4 +1,4 @@
-package dev.kscott.suggestions1.listeners;
+package sh.kaden.darkoakban.listeners;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;

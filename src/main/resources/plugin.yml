@@ -1,4 +1,4 @@
 name: DarkOakBan
 version: ${project.version}
-main: dev.kscott.suggestions1.Suggestions1
+main: sh.kaden.darkoakban.Suggestions1
 api-version: 1.13
